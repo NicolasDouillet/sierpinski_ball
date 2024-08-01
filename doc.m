@@ -3,7 +3,7 @@
 % Function to compute, display, and save a Sierpinski ball
 % at any iteration number / depth level.
 %
-% Author & support : nicolas.douillet (at) free.fr, 2019-2020.
+% Author : nicolas.douillet9 (at) gmail.com, 2019-2024.
 %
 %% Syntax
 %
@@ -28,8 +28,12 @@
 %% See also
 %
 % <https://fr.mathworks.com/matlabcentral/fileexchange/73285-sierpinski-sphere-spherpinski Spherpinski> |
-% <https://fr.mathworks.com/matlabcentral/fileexchange/79152-sierpinski-octahedron Sierpinski_octahedron>
-%
+% <https://fr.mathworks.com/matlabcentral/fileexchange/79152-sierpinski-octahedron Sierpinski_octahedron> |
+% <https://fr.mathworks.com/matlabcentral/fileexchange/82595-sierpinski-cube Sierpinski_cube> |
+% <https://fr.mathworks.com/matlabcentral/fileexchange/79439-sierpinski-icosahedron Sierpinski_icosahedron>
+% <https://fr.mathworks.com/matlabcentral/fileexchange/79439-sierpinski-cuboctahedron Sierpinski_cuboctahedron> |
+% <https://fr.mathworks.com/matlabcentral/fileexchange/158166-pi3mft PI3MFT>
+% 
 %% Input arguments
 %
 % - nb_it : positive integer scalar double, the number of iterations / depth level.
